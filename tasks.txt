@@ -1,0 +1,24 @@
+Shopping|Medium|1|4
+Doctor Appointment|High|1|5
+Read Book|Low|0|7
+Work Presentation|High|0|8
+Clean Room|Medium|0|9
+Study C++|High|0|10
+Meditation|Medium|1|11
+Grocery List|Low|0|12
+Visit Parents|Medium|1|13
+Prepare Breakfast|Low|0|14
+Complete Report|High|0|15
+Exercise|High|1|16
+Organize Files|Medium|0|17
+Watch Movie|Low|0|18
+Team Meeting|High|0|19
+Write Blog Post|Medium|0|20
+Plan Vacation|Low|0|21
+Attend Webinar|Medium|0|22
+Fix Bike|High|0|23
+Learn Guitar|Low|0|24
+Do Laundry|Medium|0|25
+Water Plants|Low|1|26
+Take Dog for a Walk|Medium|0|27
+Gym|High|1|28
